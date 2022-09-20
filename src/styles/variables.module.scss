@@ -1,0 +1,16 @@
+@import './variables.scss';
+
+:export {
+    menuText: $menuText;
+    menuActiveText: $menuActiveText;
+    subMenuActiveText: $subMenuActiveText;
+    menuActiveTextColor: $activeTextColor;
+    menuBg: $menuBg;
+    menuHover: $menuHover;
+    subMenuBg: $subMenuBg;
+    subMenuHover: $subMenuHover;
+    sideBarWidth: $sideBarWidth;
+    hideSideBarWidth: $hideSideBarWidth;
+  }
+
+
